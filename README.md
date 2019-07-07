@@ -1,8 +1,8 @@
 # sprite-outline-shader
 
 UnityのSpriteRendererで使えるアウトラインシェーダです。
-  
-詳しい解説は[**こちら**](https://tech.gc-career.com/2019/07/sprite-outline/)
+
+詳しい解説は[**こちら**](https://gc-career.com/tech-blog/sprite-outline/)
 
 ## 種類
 
