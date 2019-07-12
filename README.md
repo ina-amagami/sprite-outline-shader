@@ -2,7 +2,7 @@
 
 UnityのSpriteRendererで使えるアウトラインシェーダです。
 
-詳しい解説は[**こちら**](https://gc-career.com/tech-blog/sprite-outline/)
+詳しい解説は[**こちら**](https://amagamina.jp/sprite-outline/)
 
 ## 種類
 
@@ -14,4 +14,4 @@ SpriteRendererでアウトラインの色を変更できるSprites/OutlineColor�
 MITライセンス
 https://opensource.org/licenses/mit-license.php
   
-Copyright (c) 2019 ina-amagami (ina_amagami@gc-career.com)
+Copyright (c) 2019 ina-amagami (ina@amagamina.jp)
